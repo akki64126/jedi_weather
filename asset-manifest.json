@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jedi_weather/static/css/main.0fab3078.chunk.css",
+    "main.js": "/jedi_weather/static/js/main.85bb9d90.chunk.js",
+    "main.js.map": "/jedi_weather/static/js/main.85bb9d90.chunk.js.map",
+    "runtime-main.js": "/jedi_weather/static/js/runtime-main.719ebfaa.js",
+    "runtime-main.js.map": "/jedi_weather/static/js/runtime-main.719ebfaa.js.map",
+    "static/js/2.10418874.chunk.js": "/jedi_weather/static/js/2.10418874.chunk.js",
+    "static/js/2.10418874.chunk.js.map": "/jedi_weather/static/js/2.10418874.chunk.js.map",
+    "static/js/3.b81e0085.chunk.js": "/jedi_weather/static/js/3.b81e0085.chunk.js",
+    "static/js/3.b81e0085.chunk.js.map": "/jedi_weather/static/js/3.b81e0085.chunk.js.map",
+    "index.html": "/jedi_weather/index.html",
+    "static/css/main.0fab3078.chunk.css.map": "/jedi_weather/static/css/main.0fab3078.chunk.css.map",
+    "static/js/2.10418874.chunk.js.LICENSE.txt": "/jedi_weather/static/js/2.10418874.chunk.js.LICENSE.txt",
+    "static/media/weather.41709da0.svg": "/jedi_weather/static/media/weather.41709da0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.719ebfaa.js",
+    "static/js/2.10418874.chunk.js",
+    "static/css/main.0fab3078.chunk.css",
+    "static/js/main.85bb9d90.chunk.js"
+  ]
+}
